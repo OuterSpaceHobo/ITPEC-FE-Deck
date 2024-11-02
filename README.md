@@ -4,4 +4,4 @@ The desk is avaliable as is and will not be further updated. Feel free to rework
 
 To install and use deck refer to - https://apps.ankiweb.net/
 
-If this deck viotales any copyright - shabalin.st@gmail.com
+If this deck violates any copyright - shabalin.st@gmail.com
